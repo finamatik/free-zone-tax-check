@@ -19,6 +19,6 @@ Open `index.html` in a browser, or serve the folder with any static host. The pa
 
 ## About
 
-Built and tested on sample data by [Finamatik Business Solutions](https://finamatik.com), Sharjah, a finance and automation practice for UAE businesses. Questions and the other free tools: https://finamatik.com/work
+Built and tested on sample data by [Finamatik Business Solutions](https://finamatik.com), a finance and automation practice for UAE businesses. Questions and the other free tools: https://finamatik.com/work
 
 MIT licence, copyright Finamatik Business Solutions FZE LLC.
